@@ -4,6 +4,7 @@ A collection of the tools I find useful when teaching coding and other digital t
 
 ## Online Code Editors / IDEs
 
+ - [VS Code](https://vscode.dev/) (online version of VS Code, limited compatible extensions)
  - [CodePen](https://codepen.io/) (HTML/CSS/JS)
  - [Glitch](https://glitch.com) (free static HTML/CSS/JS, limited free Node apps, pull from GitHub) 
  - [JSFiddle](https://jsfiddle.net/) (HTML/CSS/JS)
